@@ -1,0 +1,17 @@
+{
+  "name": "Ruben",
+  "products": [
+    {
+      "name": "ajo criollo grande  #11",
+      "alias": "Ajo del número 11"
+    },
+    {
+      "name": "ajo criollo mediano  # 9",
+      "alias": "Ajo del número 9"
+    },
+    {
+      "name": "ajo criollo pelado",
+      "alias": "Ajo limpio"
+    }
+  ]
+}

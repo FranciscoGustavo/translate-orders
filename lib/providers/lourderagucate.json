@@ -1,0 +1,17 @@
+{
+  "name": "Aguacates",
+  "products": [
+    {
+      "name": "aguacate grande p/rebanar 210 a 260 gr",
+      "alias": "Aguacate extra para rebanar"
+    },
+    {
+      "name": "chile habanero verde",
+      "alias": "Habanero verde"
+    },
+    {
+      "name": "chayote de 200 a 350 gr",
+      "alias": "Chayote"
+    }
+  ]
+}

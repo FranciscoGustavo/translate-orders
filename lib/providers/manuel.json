@@ -1,0 +1,45 @@
+{
+  "name": "Manuel",
+  "products": [
+    {
+      "name": "acelga blanca",
+      "alias": "Acelga"
+    },
+    {
+      "name": "berro",
+      "alias": "Berro"
+    },
+    {
+      "name": "betabel rojo mediano de 200 a 450 gr",
+      "alias": "Betabel rojo"
+    },
+    {
+      "name": "brocoli fresco",
+      "alias": "Brocoli poco pata"
+    },
+    {
+      "name": "betabel rojo mediano de 200 a 450 gr",
+      "alias": "Betabel rojo"
+    },
+    {
+      "name": "cilantro criollo aromerado",
+      "alias": "Cilantro arromerado"
+    },
+    {
+      "name": "cilantro verde",
+      "alias": "Cilantro"
+    },
+    {
+      "name": "epazote verde",
+      "alias": "Epazote"
+    },
+    {
+      "name": "espinaca verde",
+      "alias": "Espinaca"
+    },
+    {
+      "name": "flor de calabaza",
+      "alias": "Flor de calabaza"
+    }
+  ]
+}

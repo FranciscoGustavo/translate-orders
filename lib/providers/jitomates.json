@@ -1,0 +1,25 @@
+{
+  "name": "Jitomates",
+  "products": [
+    {
+      "name": "cebolla blanca grande 260 a 400 gr",
+      "alias": "Cebolla blanca grande"
+    },
+    {
+      "name": "cebolla morada grande 260 a 400 gr",
+      "alias": "Cebolla morada"
+    },
+    {
+      "name": "jitomate bola 4x4",
+      "alias": "Bola 4 x 4 rojo"
+    },
+    {
+      "name": "jitomate guaje  primera rojo 100 a 150 gr",
+      "alias": "Guaje primera"
+    },
+    {
+      "name": "tomate verde mediano 30 a 50 gr",
+      "alias": "Tomate verde mediano"
+    }
+  ]
+}

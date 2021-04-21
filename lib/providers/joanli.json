@@ -1,0 +1,17 @@
+{
+  "name": "Joanli",
+  "products": [
+    {
+      "name": "calabaza italiana primera  8 a 14 cm",
+      "alias": "Calabaza mediana"
+    },
+    {
+      "name": "calabaza italiana segunda 14 a 18 cm",
+      "alias": "Calabza grande"
+    },
+    {
+      "name": "pepino mediano 300 a 500 gr",
+      "alias": "Pepino"
+    }
+  ]
+}
